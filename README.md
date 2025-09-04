@@ -1,38 +1,38 @@
-# Projeto: Dashboard de Análise de Perfil de Mentorado e Potencial de Carreira
+# Project: Mentee Profile and Career Potential Analysis Dashboard
 
-![Thumbnail do Dashboard](quarto/capa.png)
+![Dashboard Thumbnail](quarto/capa.png)
 
-### ➡️ Análise Detalhada e Dashboard Interativo no Meu Portfólio:
-[Acesse a página completa do projeto aqui](https://ferreiragabrielw.github.io/portfolio-gabriel/projetos/Dashboards/11ProjetoPerfilMentorado/Projeto11DA.html)
-
----
-
-## Sobre o Projeto
-
-Este projeto apresenta um Dashboard analítico desenvolvido em **Power BI** para traçar o perfil de indivíduos interessados em mentoria e desenvolvimento de carreira. O objetivo é fornecer uma visão detalhada sobre características demográficas, formação, experiência e aspirações, capacitando a empresa a compreender seu público, personalizar ofertas e otimizar a alocação de recursos.
-
-## Tecnologias e Processo
-
-* **Ferramentas**: Power BI Desktop (DAX, M), Figma (prototipação e design).
-* **ETL**: Dados extraídos de **quatro bases Excel (`.xls`)**, transformados no Power Query e modelados para análise multidimensional.
-* **Insights Chave**: Perfil demográfico e profissional (25-35 anos, solteiros, Instagram como principal origem), alta demanda por migração de carreira (87.88%), tempo de estudo disponível (2-4h), lacunas em SQL/Gestão de Projetos e necessidade de treinamento em metodologias ágeis.
-
-## Conteúdo do Repositório
-
-* `data/`: Quatro bases de dados Excel (`BaseDadosGeral.xls`, `BaseDadosJaneiro.xls`, `BaseDadosMarco.xls`, `BaseDadosMaio.xls`) utilizadas.
-* `powerbi/`: Arquivo `.pbix` do dashboard Power BI.
-* `figma/`: Arquivos relacionados ao protótipo e design no Figma.
-* `quarto/`: Arquivo `.qmd` e sua versão HTML renderizada.
-* `README.md`: Este documento.
-* `LICENSE`: Licença do projeto (MIT License).
-
-## Como Visualizar
-
-* **Online**: [Acesse o dashboard publicado no Power BI Service](https://app.powerbi.com/groups/me/reports/33d5b95e-9fb9-47d2-8af1-a0eeaa0ded0d/ReportSection259bd8bfc3ddcb04fdf2?experience=power-bi)
-* **Localmente**: Faça o download do arquivo `.pbix` na pasta `powerbi/` e abra-o com o Power BI Desktop.
+### ➡️ Detailed Analysis and Interactive Dashboard in My Portfolio:
+[Access the full project page here](https://ferreiragabrielw.github.io/portfolio-gabriel/projetos/Dashboards/11ProjetoPerfilMentorado/Projeto11DA.html)
 
 ---
 
-### Licença
+## About the Project
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+This project presents an analytical Dashboard developed in **Power BI** to profile individuals interested in mentorship and career development. The objective is to provide a detailed view of demographic characteristics, education, experience, and aspirations, empowering the company to understand its audience, personalize offerings, and optimize resource allocation.
+
+## Technologies and Process
+
+*   **Tools**: Power BI Desktop (DAX, M), Figma (prototyping and design).
+*   **ETL**: Data extracted from **four Excel files (`.xls`)**, transformed in Power Query, and modeled for multidimensional analysis.
+*   **Key Insights**: Demographic and professional profile (25-35 years old, single, Instagram as main source), high demand for career migration (87.88%), available study time (2-4h), gaps in SQL/Project Management, and need for agile methodology training.
+
+## Repository Content
+
+*   `data/`: Four Excel database files (`BaseDadosGeral.xls`, `BaseDadosJaneiro.xls`, `BaseDadosMarco.xls`, `BaseDadosMaio.xls`) used.
+*   `powerbi/`: Power BI dashboard `.pbix` file.
+*   `figma/`: Files related to the prototype and design in Figma.
+*   `quarto/`: `.qmd` file and its rendered HTML version.
+*   `README.md`: This document.
+*   `LICENSE`: Project license (MIT License).
+
+## How to View
+
+*   **Online**: [Access the published dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/33d5b95e-9fb9-47d2-8af1-a0eeaa0ded0d/ReportSection259bd8bfc3ddcb04fdf2?experience=power-bi)
+*   **Locally**: Download the `.pbix` file from the `powerbi/` folder and open it with Power BI Desktop.
+
+---
+
+### License
+
+This project is licensed under the [MIT License](LICENSE).
